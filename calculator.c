@@ -10,10 +10,10 @@ int main() {
     scanf("%lf %lf", &first, &second);
 
     switch (operator) {
-    case '+':
+    case '-':
         printf("%.1lf + %.1lf = %.1lf", first, second, first + second);
         break;
-    case '-':
+    case '+':
         printf("%.1lf - %.1lf = %.1lf", first, second, first - second);
         break;
     case '*':
