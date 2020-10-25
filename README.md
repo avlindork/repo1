@@ -1,5 +1,5 @@
 # repo1
-this repo contains c program file
+This repo contains c program file to Calculate and Insert
 
 
 
