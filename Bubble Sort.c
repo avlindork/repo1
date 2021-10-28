@@ -29,7 +29,7 @@ void printArray(int arr[], int size)
     cout << endl;
 }
  
-// Driver code
+// Main code
 int main()
 {
     int arr[] = {64, 34, 25, 12, 22, 11, 90};
