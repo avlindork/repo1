@@ -35,8 +35,8 @@ int main()
     int arr[] = { 2, 4, 5, 3, 1 };
     int n = sizeof(arr) / sizeof(arr[0]);
  
-    // Calling Stooge Sort function to sort
-    // the array
+    /* Calling Stooge Sort function to sort
+     the array */
     stoogesort(arr, 0, n - 1);
  
     // Display the sorted array
