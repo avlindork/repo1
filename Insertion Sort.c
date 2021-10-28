@@ -1,5 +1,3 @@
-//hello again
-
 #include <math.h> 
 #include <stdio.h> 
   
