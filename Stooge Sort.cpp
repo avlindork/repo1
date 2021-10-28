@@ -40,7 +40,7 @@ int main()
     stoogesort(arr, 0, n - 1);
  
     // Display the sorted array
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i <=n-1; i++)
         cout << arr[i] << " ";
  
     return 0;
