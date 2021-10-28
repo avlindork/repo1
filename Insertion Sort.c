@@ -7,7 +7,7 @@ void insertionSort(int arr[], int n)
     int i, key, j; 
     for (i = 1; i < n; i=i+1) { 
         key = arr[i]; 
-        j--;
+        j = i - 1; 
   
         /* Move elements of arr[0..i-1], that are 
           greater than key, to one position ahead 
@@ -29,7 +29,7 @@ void printArray(int arr[], int n)
     printf("\n"); 
 } 
   
-/* Driver program to test insertion sort */
+/* Driver program to test Insertion Sort.*/
 int main() 
 { 
     int arr[] = { 12, 11, 13, 5, 6 ,8,10}; 
