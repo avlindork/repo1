@@ -29,7 +29,7 @@ void stoogesort(int arr[], int l, int h)
     }
 }
  
-// Driver Code
+// Main Code
 int main()
 {
     int arr[] = { 2, 4, 5, 3, 1 };
