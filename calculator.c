@@ -1,4 +1,3 @@
-//calculators
 
 #include <stdio.h>
 int main() {
