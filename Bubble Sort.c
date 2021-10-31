@@ -20,7 +20,7 @@ void bubbleSort(int arr[], int n)
             swap(&arr[j], &arr[j+1]);
 }
  
-/* Function to print an array */
+// Function to print an array 
 void printArray(int arr[], int size)
 {
     int i;
@@ -29,15 +29,16 @@ void printArray(int arr[], int size)
     cout << endl;
 }
  
-// Main code
+// Main Driver code
 int main()
 {
    int n;
  cin>>n;
     int arr[n];
+    int i;
     for(i=0;i<n;i++)
     {
-     cin>>a[i];
+     cin>>arr[i];
     }
     bubbleSort(arr, n);
     cout<<"Sorted array: \n";
