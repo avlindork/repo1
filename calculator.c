@@ -3,7 +3,7 @@
 int main() {
     char operator;
     float first, second;
-    printf("Please enter a Operator(+, -, *,): ");
+    printf("Please enter an operator(+, -, *,): ");
     scanf("%c", &operator);
     printf("Enter two operands: ");
     scanf("%lf %lf", &first, &second);
