@@ -8,7 +8,7 @@ void swap(int *xp, int *yp)
     *yp = temp;
 }
  
-// A function to implement bubble sort
+// A function to implement   bubble sort
 void bubbleSort(int arr[], int n)
 {
     int i, j;
