@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
  
-// Function to implement stooge sort
+// Function to  implement stooge sort
 void stoogesort(int arr[], int l, int h)
 {
     if (l >= h)
