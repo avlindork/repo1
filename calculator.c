@@ -22,6 +22,6 @@ int main() {
     default:
         printf("Error! operator is not correct");
     }
-//calculator 
+//calculator c
     return 0;
 }
